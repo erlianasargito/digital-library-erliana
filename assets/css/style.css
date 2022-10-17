@@ -123,6 +123,12 @@ ul.components{
 	border-bottom: 1px solid rgba(255,255,255,.1);
 }
 
+#sidebar ul li button{
+    border: none;
+    background: none;
+    color: #000000;
+}
+
 #sidebar ul li a:hover{
     color: aquamarine;
 }
