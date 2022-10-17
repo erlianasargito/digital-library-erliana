@@ -6,6 +6,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding-right: 200px;
+    width: 120vh;
+    height: 100vh;
 }
 
 .form-signin{
